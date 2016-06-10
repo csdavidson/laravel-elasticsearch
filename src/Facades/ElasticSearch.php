@@ -1,7 +1,7 @@
 <?php
 namespace CsDavidson\LaravelElasticSearch\Facades;
 
-use CsDavidson\LaravelElastica\ElasticSearchConstants;
+use CsDavidson\LaravelElasticSearch\ElasticSearchConstants;
 use Illuminate\Support\Facades\Facade;
 
 /**
